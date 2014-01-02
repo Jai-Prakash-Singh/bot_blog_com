@@ -73,10 +73,9 @@ def open_connection(username, password):
     selecting_inbox(connection)
 
 if __name__ == '__main__':
-    #username = "mariltne@hotmail.com"
-    #username = "jatnspochoitovi@hotmail.com"
-    username = "leriones@hotmail.com"
-    password="india123"
+
+    username = "xxxxxxx@hotmail.com"
+    password="xxxxxxx"
     open_connection(username, password)
 
 
