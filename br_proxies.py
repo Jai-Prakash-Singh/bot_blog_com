@@ -17,7 +17,7 @@ def main():
     while loop is True:
         try:
             ip_port = choice(ip_list)
-            br.set_proxies({"http": "vinku:india123@"+ip_port})
+            br.set_proxies({"http": "xxxx:ixxxxx@"+ip_port})
             br.set_handle_robots(False)   # ignore robots
             br.set_handle_refresh(False)  # can sometimes hang without this
             br.addheaders =[('User-agent', 'Firefox')]  
