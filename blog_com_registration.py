@@ -66,10 +66,8 @@ def registration(email,password,age,title,content,tag):
     
 
 if __name__=="__main__":
-    #email= "jatnspochoitovi@hotmail.com"
-    #email = "leriones@hotmail.com"
-    email = "juliseschsvazquez@hotmail.com"
-    password="india123"
+    email = "xxxxxx@hotmail.com"
+    password="xxxxxxx"
     age="24"
     title="motivation3"
     content='''Achieving goals is not a matter of having "discipline". It’s a matter of motivating yourself, and keeping your focus on your goal. Follow these hacks, or any combination of them that works for you, and you should have the motivation and focus you need. ''' 
